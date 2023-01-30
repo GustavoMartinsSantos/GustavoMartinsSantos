@@ -8,7 +8,7 @@
 <img width="815px" height="250px" src="https://user-images.githubusercontent.com/62625567/215596461-94a9e6dc-ad06-4c81-a24e-4347a46b0a28.gif">
 
 
-## Contatos
+## Contacts
 <div>
   <a href="https://br.linkedin.com/in/gustavo-martins-dos-santos-61a5461a3" target="_blank" style="vertical-align: middle">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
