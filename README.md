@@ -1,9 +1,8 @@
 <div>
   <a href="https://github.com/GustavoMartinsSantos/">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoMartinsSantos&show_icons=true&count_private=true&theme=tokyonight">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoMartinsSantos&layout=compact&theme=tokyonight">
   </a>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoMartinsSantos&layout=compact&theme=tokyonight">
 </div>
 
 <img width="815px" height="250px" src="https://user-images.githubusercontent.com/62625567/215596461-94a9e6dc-ad06-4c81-a24e-4347a46b0a28.gif">
